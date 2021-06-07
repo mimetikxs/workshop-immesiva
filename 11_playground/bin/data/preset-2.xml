@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<group>
+	<optcial_flow>
+		<blur_pre>0</blur_pre>
+		<pyramid_scale>0.5</pyramid_scale>
+		<num_levels>4</num_levels>
+		<window_size>5</window_size>
+		<iterations>2</iterations>
+		<blur_post>10</blur_post>
+		<reset_flow>0</reset_flow>
+	</optcial_flow>
+	<particle_system>
+		<timeStep>1</timeStep>
+		<friction>0.158163</friction>
+		<life>100</life>
+		<life_variation>1</life_variation>
+		<mass>1</mass>
+		<mass_variation>1</mass_variation>
+	</particle_system>
+	<emitter>
+		<emit_rate>59.092</emit_rate>
+		<x>0</x>
+		<y>0</y>
+		<width>1024</width>
+		<height>768</height>
+	</emitter>
+	<wind>
+		<force>0, 0</force>
+	</wind>
+	<force_field>
+		<force_scale>3.92918</force_scale>
+		<decay>0.173469</decay>
+	</force_field>
+	<renderer_lines>
+		<color_born>1, 0.286756, 0.0826043, 1</color_born>
+		<color_dead>0.00127072, 0.886319, 0.974823, 0.75531</color_dead>
+		<trails_opacity>0.893694</trails_opacity>
+	</renderer_lines>
+	<draw_contours>1</draw_contours>
+	<draw_forcefield>0</draw_forcefield>
+	<draw_emitters>0</draw_emitters>
+</group>

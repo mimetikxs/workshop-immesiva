@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxCv
+ofxGLWarper
+ofxGui
+ofxKinect
+ofxSimpleParticleSystem
+ofxSimplePresets
